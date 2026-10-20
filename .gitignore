@@ -1,0 +1,13 @@
+# saidas das execucoes: tudo se regenera com os scripts em scripts/
+results/
+
+# gerado pelo Fast Downward quando roda fora do container
+output.sas
+sas_plan*
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
